@@ -1,6 +1,6 @@
 # FOR-20K-species
 
-# Methodology
+## Methodology
 1. High-Accuracy Classification: Achieved a competitive test accuracy of ~78% on the For-20K species dataset, classifying trees across 33 distinct species labels.
 
 2. ResNet-Based Architecture: Implemented a custom Residual Network (ResNet) architecture with 5 stages, utilizing bottleneck blocks to capture complex morphological features from multi-view inputs.
